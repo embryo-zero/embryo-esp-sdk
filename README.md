@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo ESP SDK
+
+**Embryo ESP SDK** is Embryo-Zero's fork of [esp-idf](https://github.com/espressif/esp-idf), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Espressif IoT Development Framework
 
 * [中文版](./README_CN.md)
